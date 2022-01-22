@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python3
 import nmap
 
 print("  ____   ___   ____  ______       _____   __   ____  ____   ____     ___  ____   ")
